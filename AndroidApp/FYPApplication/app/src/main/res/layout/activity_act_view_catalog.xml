@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/img_hkcentrallib">
+
+    <include layout="@layout/toolbar"/>
+
+    <EditText
+        android:id="@+id/etSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textSize="20sp"
+        android:hint="Search By Title"/>
+
+    <LinearLayout
+        android:id="@+id/llHeaders"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/black"
+        android:layout_below="@+id/etSearch">
+
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/yellow"
+
+            android:text="Title"/>
+
+        <TextView
+            android:id="@+id/tv2"
+
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/yellow"
+
+            android:text="Author"/>
+
+        <TextView
+            android:id="@+id/tvIsbn"
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/yellow"
+
+            android:text="ISBN"
+            />
+
+        <TextView
+            android:id="@+id/tvPublisher"
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/yellow"
+
+            android:text="Publisher"
+            />
+
+        <TextView
+            android:id="@+id/tvDetails"
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/yellow"
+
+            android:text="Details"
+            />
+
+    </LinearLayout>
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lvBooks"
+        android:layout_below="@+id/llHeaders">
+
+    </ListView>
+
+
+
+
+</RelativeLayout>

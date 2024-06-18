@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/img_hkcentrallib">
+
+    <include layout="@layout/toolbar"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            style="@style/heading_text_view"
+            android:text="Hello User!" />
+
+
+        <Button
+            android:id="@+id/btnProcessReturn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/process_return_func" />
+
+        <Button
+            android:id="@+id/btnManageRes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="72dp"
+            android:text="@string/manage_res_func" />
+
+        <Button
+            android:id="@+id/btnCheckReader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/check_reader_func" />
+
+        <Button
+            android:id="@+id/btnBrowseCat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="72dp"
+            android:text="@string/browse_catalog_func" />
+
+        <Button
+            android:id="@+id/btnMyAc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/my_account_func" />
+    </LinearLayout>
+</RelativeLayout>
