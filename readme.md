@@ -3,7 +3,7 @@
 <p>The application is titled "Library Management Sysyem". It simulate the day-to-day operations (like borrowing/return/renewal) in a library </p>
 <p>The fullstack application can be login as Staff or LibraryUsers, it supports the following functionalities:</p>
 
-<li>Login </li>
+
 <i>Staff Features</i>
 <ul>
 <li>Processed Returned Books</li>
@@ -17,6 +17,7 @@
 </ul>
 <i>Common Features</i>
 <ul>
+<li>Login </li>
 <li>Browse Book Catalog</li>
 <li>View My Account Details</li>
 </ul>
