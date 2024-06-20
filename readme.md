@@ -22,30 +22,30 @@
 <tbody>
     <tr>
         <th rowspan="3"><i>Staff Features</i></th>
-        <td>Processed Returned Books</td>
+        <td>&#9679;Processed Returned Books</td>
     </tr>
     <tr>
-    <td>Manage Resources (Edit and Delete Books)</td>
+    <td>&#9679;Manage Resources (Edit and Delete Books)</td>
     </tr>
     <tr>
-        <td>Check LibraryUser details</td>
+        <td>&#9679;Check LibraryUser details</td>
     </tr>
     <tr>
         <th rowspan="2"><i>LibraryUser Features</i></th>
-        <td>Borrow/Return Books</td>
+        <td>&#9679;Borrow/Return Books</td>
     </tr>
     <tr>
-        <td>Books Renewal</td>
+        <td>&#9679;Books Renewal</td>
     </tr>
     <tr>
         <th rowspan="3"><i>Common Features</i></th>
-        <td>Login </td>
+        <td>&#9679;Login </td>
     </tr>
       <tr>
-        <td>Browse Book Catalog </td>
+        <td>&#9679;Browse Book Catalog </td>
     </tr>
       <tr>
-        <td>View My Account Details </td>
+        <td>&#9679;View My Account Details </td>
     </tr>
 </tbody>
 </table>
