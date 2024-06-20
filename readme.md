@@ -1,5 +1,27 @@
 <h1>Legacy Repo: The original repo is created long ago and no longer maintained </h1>
 <p>This is a full stack android native application built using AndroidStudio(Java), NodeJS,ExpressJS and MSSQL server. </p>
+<p>The application is titled "Library Management Sysyem". It simulate the day-to-day operations (like borrowing/return/renewal) in a library </p>
+<p>The fullstack application can be login as Staff or LibraryUsers, it supports the following functionalities:</p>
+
+<li>Login </li>
+<i>Staff Features</i>
+<ul>
+<li>Processed Returned Books</li>
+<li>Manage Resources (Edit and Delete Books)</li>
+<li>Check LibraryUser details</li>
+</ul>
+<i>LibraryUser Features</i>
+<ul>
+<li>Borrow/Return Books</li>
+<li>Books Renewal</li>
+</ul>
+<i>Common Features</i>
+<ul>
+<li>Browse Book Catalog</li>
+<li>View My Account Details</li>
+</ul>
+
+
 <p>Detail Report included in Final_Report-part-2.pdf </p>
 <h1>Screenshots</h1>
 <p>All Screenshots are located in <i>/screenshot folder</i></p>
