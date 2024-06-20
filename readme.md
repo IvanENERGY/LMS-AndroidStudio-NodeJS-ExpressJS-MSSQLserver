@@ -7,6 +7,23 @@
 
 ![ActSplash](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/3d035dae-65b6-456e-8e68-56666ce9b972)
 
+<br>
+
+![Screenshot_2023-05-18-15-05-03-833_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/dec32fd7-22f7-42ae-a8ce-199f377516f1)
+
+<br>
+
+![Screenshot_2023-05-18-15-05-07-738_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/4a4e8a94-152c-490d-8677-612d93b9e922)
+
+<br>
+
+<br>
+
+![Screenshot_2023-05-18-15-06-11-039_com google android permissioncontroller](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/c3aa355d-5b94-4c42-a691-cfcc7d2176f4)
+
+<br>
+
+
 <p>[ActLogin.jpg]</p>
 
 ![ActLogin](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/e8773dd4-666a-432b-8cf2-25ef72d572f0)
@@ -29,6 +46,11 @@
 
 ![ActViewCatalog](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/79f92799-cbd4-4c89-b2c8-c4bb60645976)
 
+<br>
+
+![Screenshot_2023-05-18-19-41-50-667-edit_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/fc14a8e0-43f7-43f8-987b-a7acb0e745e4)
+
+<br>
 <p>[ActActBookDetail.jpg]</p>
 
 ![ActBookDetail](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/a136cfc4-381a-4bc9-8847-41ff24ca9e25)
@@ -40,6 +62,19 @@
 
 ![ActProcessReturn](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/a3a75776-66ae-4884-9957-822389798e5e)
 
+<br>
+
+![Screenshot_2023-05-18-20-14-28-662_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/1d7001b6-6244-4e5b-8d1a-3b4f43f9092f)
+
+<br>
+
+![Screenshot_2023-05-18-20-14-40-718_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/997edcd8-e514-4041-963c-8709dc3301d6)
+
+<br>
+
+![Screenshot_2023-05-18-20-15-10-416_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/96787aeb-8bba-42d5-8901-047c68be65f3)
+
+<br>
 <p>[ActManageRes.jpg]</p>
 
 ![ActManageRes](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/a54b005d-7245-4892-9649-4d267fc99df3)
@@ -53,15 +88,7 @@
 
 ![ActCheckReader](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/3db41898-3fb4-4cb0-bff1-a4c7ded4ddb2)
 
-<p>Other screenshots:</p>
 
-![Screenshot_2023-05-18-15-05-03-833_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/dec32fd7-22f7-42ae-a8ce-199f377516f1)
-![Screenshot_2023-05-18-15-05-07-738_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/4a4e8a94-152c-490d-8677-612d93b9e922)
-![Screenshot_2023-05-18-15-06-11-039_com google android permissioncontroller](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/c3aa355d-5b94-4c42-a691-cfcc7d2176f4)
-![Screenshot_2023-05-18-19-41-50-667-edit_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/fc14a8e0-43f7-43f8-987b-a7acb0e745e4)
-![Screenshot_2023-05-18-20-14-28-662_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/1d7001b6-6244-4e5b-8d1a-3b4f43f9092f)
-![Screenshot_2023-05-18-20-14-40-718_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/997edcd8-e514-4041-963c-8709dc3301d6)
-![Screenshot_2023-05-18-20-15-10-416_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/96787aeb-8bba-42d5-8901-047c68be65f3)
 
 <hr>
 AndroidApp folder includes all the front end components
