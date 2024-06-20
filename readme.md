@@ -8,38 +8,53 @@
 ![ActSplash](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/3d035dae-65b6-456e-8e68-56666ce9b972)
 
 <p>[ActLogin.jpg]</p>
+
 ![ActLogin](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/e8773dd4-666a-432b-8cf2-25ef72d572f0)
 
 <p>[ActMainPageReader.jpg]</p>
+
 ![ActMainPageReader](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/4a50f6bd-8249-43f0-a1f6-92cf92a7abfb)
 
 <p>[ActMainPageStaff.jpg]</p>
+
 ![ActMainPageStaff](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/11709601-04e9-434d-ba3f-bd1b00bcd03e)
 
 <p>[ActBorrowReturn.jpg]</p>
+
 ![ActBorrowReturn](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/8f6844da-e35f-4ebe-ad64-ac915616f59b)
 <p>[ActRenewal.jpg]</p>
+
 ![ActRenewal](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/1dd847ef-2138-4d4d-b18f-a27bb5de1344)
 <p>[ActViewCatalog.jpg]</p>
+
 ![ActViewCatalog](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/79f92799-cbd4-4c89-b2c8-c4bb60645976)
 
 <p>[ActActBookDetail.jpg]</p>
+
 ![ActBookDetail](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/a136cfc4-381a-4bc9-8847-41ff24ca9e25)
+
 <p>[ActMyAccount.jpg]</p>
+
 ![ActMyAccount](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/c8b8e00c-5907-4d23-a5e1-cfe57f3eb13d)
 <p>[ActProcessReturn.jpg]</p>
+
 ![ActProcessReturn](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/a3a75776-66ae-4884-9957-822389798e5e)
 
 <p>[ActManageRes.jpg]</p>
+
 ![ActManageRes](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/a54b005d-7245-4892-9649-4d267fc99df3)
 <p>[ActAddBook.jpg]</p>
+
 ![ActAddBook](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/2084d996-877e-4672-9b8a-6974a516447a)
 <p>[ActEditBook.jpg]</p>
+
 ![ActEditBook](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/5c94539c-43f8-4f09-9b34-45b2128a27a5)
 <p>[ActCheckReader.jpg]</p>
+
 ![ActCheckReader](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/3db41898-3fb4-4cb0-bff1-a4c7ded4ddb2)
 
 <p>Other screenshots:</p>
+
 ![Screenshot_2023-05-18-15-05-03-833_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/dec32fd7-22f7-42ae-a8ce-199f377516f1)
 ![Screenshot_2023-05-18-15-05-07-738_com example fypapplication](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/4a4e8a94-152c-490d-8677-612d93b9e922)
 ![Screenshot_2023-05-18-15-06-11-039_com google android permissioncontroller](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/c3aa355d-5b94-4c42-a691-cfcc7d2176f4)
