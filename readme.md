@@ -1,26 +1,56 @@
 <h1>Legacy Repo: The original repo is created long ago and no longer maintained </h1>
 <p>This is a full stack android native application built using AndroidStudio(Java), NodeJS,ExpressJS and MSSQL server. </p>
+<table>
+<tbody>
+  <tr>
+    <th>Frontend</th>
+    <td> Android Studio (JAVA)</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Backend</th>
+    <td> NodeJS & Express JS</td>
+  </tr>
+  <tr>
+    <td> MS-SQL-Server</td>
+  </tr>
+</tbody>
+</table>
 <p>The application is titled "Library Management Sysyem". It simulate the day-to-day operations (like borrowing/return/renewal) in a library </p>
 <p>The fullstack application can be login as Staff or LibraryUsers, it supports the following functionalities:</p>
 
+<table>
+<tbody>
+    <tr>
+        <th rowspan="3"><i>Staff Features</i></th>
+        <td>Processed Returned Books</td>
+    </tr>
+    <tr>
+    <td>Manage Resources (Edit and Delete Books)</td>
+    </tr>
+    <tr>
+        <td>Check LibraryUser details</td>
+    </tr>
+    <tr>
+        <th rowspan="2"><i>LibraryUser Features</i></th>
+        <td>Borrow/Return Books</td>
+    </tr>
+    <tr>
+        <td>Books Renewal</td>
+    </tr>
+    <tr>
+        <th rowspan="3"><i>Common Features</i></th>
+        <td>Login </td>
+    </tr>
+      <tr>
+        <td>Browse Book Catalog </td>
+    </tr>
+      <tr>
+        <td>View My Account Details </td>
+    </tr>
+</tbody>
+</table>
 
-<i>Staff Features</i>
-<ul>
-<li>Processed Returned Books</li>
-<li>Manage Resources (Edit and Delete Books)</li>
-<li>Check LibraryUser details</li>
-</ul>
-<i>LibraryUser Features</i>
-<ul>
-<li>Borrow/Return Books</li>
-<li>Books Renewal</li>
-</ul>
-<i>Common Features</i>
-<ul>
-<li>Login </li>
-<li>Browse Book Catalog</li>
-<li>View My Account Details</li>
-</ul>
+
 
 
 <p>Detail Report included in Final_Report-part-2.pdf </p>
