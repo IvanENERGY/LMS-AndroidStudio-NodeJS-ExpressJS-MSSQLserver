@@ -91,7 +91,7 @@
 
 
 <hr>
-AndroidApp folder includes all the front end components
-API and database folder includes all the back end components 
+AndroidApp folder includes all the front end components<br>
+API and database folder includes all the back end components <br>
 
 There are readme.txt in each subfolders for details.
