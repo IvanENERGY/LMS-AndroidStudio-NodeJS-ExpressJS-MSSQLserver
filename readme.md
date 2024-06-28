@@ -1,5 +1,5 @@
-<h1>&#57938;Legacy Repo: The original repo is created long ago and no longer maintained	&#57938; </h1>
-<h1>&#57615;Overview</h1>
+<h1>&#x26a0; Legacy Repo: The original repo is created long ago and no longer maintained	&#57938; </h1>
+<h1>Overview</h1>
 <p>[project_LMS.png]</p>
 
 ![project_LMS](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/cd50d77e-e92b-46cb-8a03-f7bd78f44d71)
