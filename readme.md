@@ -1,4 +1,9 @@
-<h1>Legacy Repo: The original repo is created long ago and no longer maintained </h1>
+<h1>&#57938;Legacy Repo: The original repo is created long ago and no longer maintained	&#57938; </h1>
+<h1>&#57615;Overview</h1>
+<p>[project_LMS.png]</p>
+
+![project_LMS](https://github.com/IvanENERGY/LMS-AndroidStudio-NodeJS-ExpressJS-MSSQLserver/assets/90034836/cd50d77e-e92b-46cb-8a03-f7bd78f44d71)
+
 <p>This is a full stack android native application built using AndroidStudio(Java), NodeJS,ExpressJS and MSSQL server. </p>
 <table>
 <tbody>
